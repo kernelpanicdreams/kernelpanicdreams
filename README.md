@@ -29,21 +29,12 @@ I haven’t uploaded much yet—but that’s about to change. Expect scripts, da
 
 ---
 
-## 🧮 Terminal Simulation
 
-nitializing kernelpanicdreams... Injecting entropy into mainframe... ████████████████████████████████ 99% System anomaly detected: humor.exe is self-aware Recompiling reality... Welcome, traveler. You are now inside the sandbox.
+
+Initializing kernelpanicdreams... Injecting entropy into mainframe... ████████████████████████████████ 99% System anomaly detected: humor.exe is self-aware Recompiling reality... Welcome, traveler. You are now inside the sandbox.
 
 ---
 
-## 📈 Contribution Graph (Simulated)
-
-🟩🟩⬛⬛🟩⬛🟩⬛  
-⬛🟩🟩⬛⬛🟩⬛🟩  
-🟩⬛🟩🟩⬛⬛🟩⬛  
-⬛🟩⬛🟩🟩⬛⬛🟩  
-🟩⬛⬛🟩⬛🟩🟩⬛  
-⬛🟩🟩⬛🟩⬛⬛🟩  
-🟩⬛🟩⬛⬛🟩🟩⬛
 
 ---
 
