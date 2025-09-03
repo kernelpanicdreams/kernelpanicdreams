@@ -12,37 +12,54 @@ Welcome to the digital echo chamber of a student full-stack engineer with a penc
 - 🧠 Obsessed with general knowledge, elegant syntax, and solving problems that shouldn’t exist  
 - 🤡 Humor is my debugging tool  
 - 🧪 Experimental by nature, hacker-core by aesthetic
+---
+
+## 🛠️ Tech Arsenal
+- **Languages:** JavaScript, Python, C, Bash, and occasionally fluent in Stack Overflow  
+- **Frameworks:** React, Node.js, Express, Django (when I’m feeling brave)  
+- **Databases:** MySQL, PostgreSQL, MongoDB  
+- **Tools & Platforms:** Git, Docker, Linux, VS Code, caffeine-fueled commits  
+- **Special Powers:** Turning obscure error messages into working solutions (eventually)
 
 ---
 
-## 🛠️ Skills & Tools
-- PowerShell, Java, HTML/CSS/JS  
-- DaVinci Resolve scripting  
-- Minecraft plugin dev & server architecture  
-- GitHub Copilot, JetBrains AI Assistant  
-- Terminal simulations with ANSI chaos
+## 📚 Currently Learning
+- Advanced backend systems and scaling strategies  
+- The art of writing *actual* documentation (instead of TODOs)  
+- Rust (because every developer must suffer at some point)  
+- How to touch grass 🌱 (work in progress)  
 
 ---
 
-## 🧷 Status: Rebooting
-I haven’t uploaded much yet—but that’s about to change. Expect scripts, dashboards, terminal art, and maybe a few digital fever dreams.
+## 🚀 Projects
+- 🌀 **Infinite Sandbox:** A chaotic playground of random experiments, snippets, and half-baked brilliance  
+- 🔒 **SecuriTeach:** Tools and notes from my adventures in ethical hacking and system hardening  
+- 🌐 **Portfolio 2.0:** Where I try to convince the internet that I’m employable  
 
 ---
 
-
-
-Initializing kernelpanicdreams... Injecting entropy into mainframe... ████████████████████████████████ 99% System anomaly detected: humor.exe is self-aware Recompiling reality... Welcome, traveler. You are now inside the sandbox.
-
----
-
-
----
-
-## 🕸️ Contact
-- Discord: `therealnniro`  
-- Carrier pigeon: currently in beta
+## 🎯 Goals
+- Write cleaner code than yesterday  
+- Automate my bad habits away  
+- Contribute to open-source projects that matter  
+- Survive without pushing to `main` at 3AM  
 
 ---
 
-🧬 *This profile is a sandbox. Expect mutations.*
-> *bro AI is so cool this took 20 seconds*
+## 🎭 Fun Facts
+- I commit in bursts of manic inspiration rather than scheduled productivity  
+- Linux terminal > fancy GUI (fight me)  
+- My code either runs flawlessly or explodes spectacularly—there is no in-between  
+- Favorite debugging method: rubber duck… or sarcasm  
+
+---
+
+## 🌐 Connect With Me
+- 💼 [LinkedIn](#)  
+- 🌟 [Portfolio](#)  
+- 🐦 [Twitter/X](#)  
+- 📬 Carrier pigeon (DM for coordinates)  
+
+---
+
+🔥 *"Code is poetry, except mine—it’s more like experimental jazz."*  
